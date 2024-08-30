@@ -4,6 +4,7 @@
 
 This project is an aesthetic and minimalistic To-Do application built using Flutter, designed to provide users with a clean and efficient way to manage their tasks. The app allows users to perform essential task management operations such as adding, updating, and deleting tasks. It leverages the Hive database for local storage, ensuring fast and secure data handling without the need for an internet connection.
 
+
 ##Key Features:
 
 •	Aesthetic User Interface: The app features a minimalistic and visually pleasing design, focusing on user experience with a simple yet effective layout.
@@ -16,11 +17,13 @@ This project is an aesthetic and minimalistic To-Do application built using Flut
 
 •	Responsive Design: The app is fully responsive, offering a seamless experience on both mobile and tablet devices.
 
+
 ##Technology Stack:
 
 •	Frontend: Flutter for building a cross-platform mobile application with a focus on beautiful UIs.
 
 •	Local Database: Hive for efficient and secure local storage, handling all CRUD operations related to task management.
+
 
 ##Target Audience:
 
