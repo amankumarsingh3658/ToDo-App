@@ -15,6 +15,8 @@ class TodoTile extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    final height = MediaQuery.of(context).size.height;
+    final width = MediaQuery.of(context).size.width;
     return Padding(
       padding: const EdgeInsets.only(left: 25, right: 25, top: 25),
       child: Slidable(
