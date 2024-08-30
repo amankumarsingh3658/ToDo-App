@@ -72,6 +72,7 @@ class _HomePageState extends State<HomePage> {
             },
             onCancel: () {
               Navigator.pop(context);
+              _controller.clear();
             },
             controller: _controller,
             inputKey: inputKey,
